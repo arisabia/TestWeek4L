@@ -1,0 +1,12 @@
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.ClienteWCF.dll.config
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.ClienteWCF.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.ClienteWCF.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.Core.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.Core.EF.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.Core.EF.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\bin\Debug\TestWeek4L.Core.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\obj\Debug\TestWeek4L.ClienteWCF.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\obj\Debug\TestWeek4L.ClienteWCF.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\obj\Debug\TestWeek4L.ClienteWCF.csproj.CopyComplete
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\obj\Debug\TestWeek4L.ClienteWCF.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.ClienteWCF\obj\Debug\TestWeek4L.ClienteWCF.pdb

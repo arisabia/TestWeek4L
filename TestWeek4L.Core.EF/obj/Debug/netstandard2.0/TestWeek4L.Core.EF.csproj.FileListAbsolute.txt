@@ -1,0 +1,12 @@
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\bin\Debug\netstandard2.0\TestWeek4L.Core.EF.deps.json
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\bin\Debug\netstandard2.0\TestWeek4L.Core.EF.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\bin\Debug\netstandard2.0\TestWeek4L.Core.EF.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\bin\Debug\netstandard2.0\TestWeek4L.Core.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\bin\Debug\netstandard2.0\TestWeek4L.Core.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.csproj.CopyComplete
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core.EF\obj\Debug\netstandard2.0\TestWeek4L.Core.EF.pdb

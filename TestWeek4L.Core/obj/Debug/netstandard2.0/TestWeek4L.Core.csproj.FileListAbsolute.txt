@@ -1,0 +1,9 @@
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\bin\Debug\netstandard2.0\TestWeek4L.Core.deps.json
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\bin\Debug\netstandard2.0\TestWeek4L.Core.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\bin\Debug\netstandard2.0\TestWeek4L.Core.pdb
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.csproj.AssemblyReference.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.AssemblyInfoInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.AssemblyInfo.cs
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.csproj.CoreCompileInputs.cache
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.dll
+C:\Users\larisa.b.antonica\Desktop\MyTestAcademy\TestWeek4\TestWeek4.Core\TestWeek4L.Core\obj\Debug\netstandard2.0\TestWeek4L.Core.pdb
